@@ -1,8 +1,6 @@
 # 🏦 LoanSense AI — Explainable Loan Approval System
+<img width="1889" height="910" alt="لقطة شاشة 2026-03-30 204356" src="https://github.com/user-attachments/assets/43abd5bf-9086-448d-a3b2-ae68a649531f" />
 
-<p align="center">
-  <img src="./docs/banner.png" alt="LoanSense AI Banner" width="100%" />
-</p>
 
 <p align="center">
   <a href="#"><img src="https://img.shields.io/badge/Python-3.10+-3776ab?logo=python&logoColor=white" /></a>
